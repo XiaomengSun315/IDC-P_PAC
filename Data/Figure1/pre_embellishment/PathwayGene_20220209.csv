@@ -1,0 +1,32 @@
+gene,pathway
+AR,AR pathway
+FOXA1,AR pathway
+NCOR1,AR pathway
+NCOR2,AR pathway
+APC,WNT pathay
+FAT1,WNT pathay
+LRP1B,WNT pathay
+SOX9,WNT pathay
+BRAF,RAF pathway
+HRAS,RAF pathway
+KRAS,RAF pathway
+PIK3CA,PI3K pathway
+PIK3C2B,PI3K pathway
+TSC2,PI3K pathway
+CDK12,DDR pathway
+ATM,DDR pathway
+BAP1,DDR pathway
+BRCA2,DDR pathway
+PMS2,DDR pathway
+FANCC,DDR pathway
+MSH6,DDR pathway
+CHD1,Chromatin Modifer
+BCOR,Chromatin Modifer
+KMT2C,Chromatin Modifer
+ZFHX3,other
+PTEN,other
+RB1,other
+DDR2,other
+SPOP,other
+STAG2,other
+TP53,other

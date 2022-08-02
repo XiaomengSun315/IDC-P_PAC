@@ -1,0 +1,32 @@
+	00_IDCP	01_IDCP	02_IDCP	03_IDCP	04_IDCP	05_IDCP	06_IDCP	07_IDCP	08_IDCP	09_IDCP	10_IDCP	11_IDCP	13_IDCP	14_IDCP	15_IDCP	16_IDCP	17_IDCP	18_IDCP	19_IDCP	20_IDCP	21_IDCP	22_IDCP
+AR	gain											gain	gain									
+FOXA1	In_Frame_Del		In_Frame_Del	In_Frame_Del		In_Frame_Del				In_Frame_Del					In_Frame_Del				In_Frame_Del			
+NCOR1						Nonsense_Mutation																
+NCOR2								Missense_Mutation														
+APC													Frame_Shift_Del		loss							
+FAT1									Frame_Shift_Del													
+LRP1B								Nonsense_Mutation									loss			loss		
+SOX9										Frame_Shift_Ins												
+BRAF				Missense_Mutation																		
+HRAS																						
+KRAS												Missense_Mutation										
+PIK3CA	Missense_Mutation							Missense_Mutation										Missense_Mutation				
+PIK3C2B																			gain			
+TSC2												Splice_Site										
+CDK12			Multi_Hit				Multi_Hit					Frame_Shift_Del							Nonsense_Mutation			
+ATM											loss											
+BAP1		Missense_Mutation																				
+BRCA2															Frame_Shift_Del							
+PMS2						loss																
+FANCC																						
+MSH6																						
+CHD1	loss																					
+BCOR									Nonsense_Mutation													
+KMT2C					Missense_Mutation				Missense_Mutation						Nonsense_Mutation					Frame_Shift_Del		
+ZFHX3					In_Frame_Ins															Nonsense_Mutation		
+PTEN	Missense_Mutation							loss			Frame_Shift_Ins		loss	loss						loss		
+RB1										Nonsense_Mutation												
+DDR2			gain							gain												
+SPOP					Missense_Mutation											Missense_Mutation						
+STAG2																Frame_Shift_Del						
+TP53	Splice_Site											Missense_Mutation	Frame_Shift_Del				Missense_Mutation					

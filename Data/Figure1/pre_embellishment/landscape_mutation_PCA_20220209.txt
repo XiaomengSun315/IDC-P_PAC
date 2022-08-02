@@ -1,0 +1,32 @@
+	00_PCA	01_PCA	02_PCA	03_PCA	04_PCA	05_PCA	06_PCA	07_PCA	08_PCA	09_PCA	10_PCA	11_PCA	13_PCA	14_PCA	15_PCA	16_PCA	17_PCA	18_PCA	19_PCA	20_PCA	21_PCA	22_PCA
+AR										Missense_Mutation												
+FOXA1	In_Frame_Del		In_Frame_Del		In_Frame_Del	In_Frame_Del	Multi_Hit			In_Frame_Del									In_Frame_Del			
+NCOR1																						
+NCOR2																						
+APC																						
+FAT1																						
+LRP1B																						
+SOX9										Frame_Shift_Ins												
+BRAF																						
+HRAS				Missense_Mutation																		
+KRAS												Missense_Mutation										
+PIK3CA	Missense_Mutation							Missense_Mutation														
+PIK3C2B																			gain			
+TSC2												Splice_Site										
+CDK12			Multi_Hit				Multi_Hit					Frame_Shift_Del							Multi_Hit			
+ATM					Frame_Shift_Del						loss											
+BAP1		Missense_Mutation																				
+BRCA2	loss																					
+PMS2																						
+FANCC							Splice_Site															
+MSH6					Frame_Shift_Del																	
+CHD1	loss																					
+BCOR																						
+KMT2C	Splice_Site				Missense_Mutation				Missense_Mutation													
+ZFHX3					In_Frame_Ins				Missense_Mutation			Missense_Mutation										
+PTEN	Missense_Mutation										Frame_Shift_Ins											
+RB1																						
+DDR2																						
+SPOP																Missense_Mutation						
+STAG2																Frame_Shift_Del						
+TP53												Missense_Mutation										
